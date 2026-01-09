@@ -11,7 +11,7 @@ redirect_from:
 I am an incoming M.S. student in **Electronic Engineering** at **Kyungpook National University (KNU)**, Korea.  
 My research goal is to become a **"Semiconductor Architect"** who bridges the gap between **Device Physics** and **EDA (Electronic Design Automation)**.
 
-I have a strong background in semiconductor device physics and fabrication, having conducted research on **2D material-based optoelectronics** and **heterogeneous integration**. Currently, I am expanding my expertise into **VLSI Physical Design**, focusing on **Design-Technology Co-Optimization (DTCO)** and **ML-enhanced EDA algorithms**.
+I have a strong background in semiconductor device physics and fabrication, having conducted research on **2D material-based optoelectronics** and **2D materials heterostructure**. Currently, I am expanding my expertise into **VLSI Physical Design**, focusing on **Design-Technology Co-Optimization (DTCO)** and **ML-enhanced EDA algorithms**.
 
 I aim to be an engineer who not only solves given problems but defines new ones by connecting atomic-scale physics with system-level architecture.
 
