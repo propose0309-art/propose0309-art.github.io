@@ -13,7 +13,7 @@ title                    : "Seongyong Kim"
 title_separator          : "-"
 name                     : &name "Seongyong Kim"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : "https://propose0309-art.github.io"# The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://propose0309-art.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "/propose0309-art/propose0309-art.github.io"
@@ -23,7 +23,7 @@ repository               : "/propose0309-art/propose0309-art.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/me.jpg"
+  avatar           : "images/me.jpg"
   name             : "Seongyong Kim"
   pronouns         : # example: "she/her"  
   bio              : "Aspiring Semiconductor Architect bridging Device Physics and EDA"
